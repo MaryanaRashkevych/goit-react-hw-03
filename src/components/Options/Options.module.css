@@ -1,0 +1,12 @@
+.button{margin-right: 15px;
+width:fit-content;
+padding: 8px;
+font-size: 14px;
+font-weight: 600;
+color: darkolivegreen; 
+background-color: rgb(243, 233, 233);
+box-shadow: dimgray;
+}
+.optContainer{
+margin-bottom: 26px;
+}
