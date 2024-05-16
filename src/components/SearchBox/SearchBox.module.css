@@ -1,0 +1,13 @@
+.label {
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.input {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  height: 32px;
+ 
+}
